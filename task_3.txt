@@ -1,0 +1,35 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+# University of Zurich
+# Department of Computational Linguistics
+
+# Authors: Cui Ding(olatname: cding)
+# Matriculation Numbers: 21-718-945
+# 			Mia Tatjana Egli (olatname: miaegl)
+# Matriculation Numbers: 21-700-406
+
+
+XML:
+Advantage: Well structured, easily readable for human, friendly for python to work with, easy to share among people,
+Can store meta information. Document-oriented.
+Disadvantage: Tedious to work with. Cost quite some memories. Slow to parse. Difficult to generate(at least for me).
+
+Json:
+Advantage: Easier and faster to parse. Cost less memories.
+Disadvantage: Less secure. Less readable ofr human beings.
+
+CSV:
+Advantage: Very easy to read for human beings. Easy to generate and to import.
+Disadvantage: Not good at handling metadata.
+
+Feedback:
+About 4 hours.
+If count the time we went through the lectures and tutorials, it can mount to 10 hours.
+In general, the exercise is not difficult.
+We spend some extra time because we were trapped by a (stupid) mistake in task 1.1.
+Certainly. It helps a lot.
+
+
+
+
